@@ -1,0 +1,96 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:nil todo:t |:t
+#+title: 
+#+author: 
+#+email: yc@yuchen-klavaro
+#+language: de
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 29.0.50 (Org mode 9.5.2)
+#+cite_export:
+#+latex_class: extarticle
+#+latex_class_options:
+#+latex_header:
+#+latex_header_extra:
+#+description:
+#+keywords:
+#+subtitle: 
+#+latex_compiler: xelatex
+#+date: \today
+
+* Präsentation Thesenpapier: Männer sind Schweine
+
+- Gruppemitglieder: Litong, Ky Phong, Yuchen.
+
+Unsere Präsentation ist voraussichtlich in drei Teile aufgeteilt:
+
+* Yuchen
+
+1. ist verantwortlich für die technische Aspekte der Präsentation
+   wie die Echtzeit-Bildschirmteilung, Musik-Video Wiedergabe und
+   die Erstellung der Präsentation-Datei und des Thesenpapiers.
+
+2. wird den erste Teil des Liedes, ``Einleitung'', präsentieren.
+
+   Geplante Inhalte sind:
+
+   - Einleitung: Arbeitsteilung unserer Gruppe, Wiedergabe des Videos
+
+   - Interpretation des Liedtexts (Teil I), Sprachliche Besonderheiten
+     mit Erklärung
+
+   - Kurze Zusammenfassung der Geschichte des Frauenrechts und der
+     Frauenbewegung in Deutschland
+
+   - Eigene Meinung
+
+* Litong
+1. Vorbreitung der Frage an Zuhörer.
+
+2. wird den zweite Teil des Liedes, ``die überzogene Lüge der
+   Männer'', präsentieren.
+
+   Geplante Inhalte sind:
+
+   - Interpretation des Liedtexts (Teil II), Sprachliche
+     Besonderheiten mit Erklärung
+
+   - Vorstellung der deutschen Punkrock-Band ``die Ärzte''
+
+   - Rezeption: die Reaktion der Zuhörer in 1990er Jahren und die Popularität.
+
+   - Eigene Meinung
+
+* Ky Phong
+1. Sammlung relevanter Bildern.
+
+2. wird den letzte Teil des Liedes, ``die wahre Gesichten der
+   Männer'', präsentieren.
+
+   Geplante Inhalte sind:
+
+   - Interpretation des Liedtexts (Teil III), Sprachliche
+     Besonderheiten mit Erklärung
+
+   - Historische Hintergründe und Einordnung: die Umstände, in den das
+     Lied ins Leben gerufen wird.
+
+   - Eigene Meinung
+
+* Schluss
+
+1. Vergleichung der Frauenrechte und Frauenbewegung zwischen
+
+   BRD und China:
+   - Litong (Perspektiv der Frauen)
+   - Yuchen (Perspektiv der Männer)
+
+   BRD und Vietnam
+   - Ky Phong (Perspektiv der Männer)
+
+2. Litong: Fragen an Zuhörer
+
+3. Yuchen, Ky Phong: Antwort der Frage

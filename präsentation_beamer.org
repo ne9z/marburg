@@ -1,0 +1,436 @@
+#+STARTUP: beamer
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: timestamp:t title:t toc:nil todo:t |:t
+#+title: Präsentation -- Männer sind Schweine
+#+author: Ky Phong, Litong, Yuchen
+#+language: de
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 27.2 (Org mode 9.4.4)
+#+options: H:1
+#+latex_class: beamer
+#+columns: %45ITEM %10BEAMER_env(Env) %10BEAMER_act(Act) %4BEAMER_col(Col) %8BEAMER_opt(Opt)
+#+beamer_theme: default
+#+beamer_color_theme:
+#+beamer_font_theme:
+#+beamer_inner_theme:
+#+beamer_outer_theme:
+#+beamer_header:
+#+latex_compiler: xelatex
+#+date: \today
+* Musik-Video
+
+  https://www.youtube.com/watch?v=mYtPAtHtlgo
+
+
+* Gliederung
+
+** Yuchen
+
+    + Interpretation erster Teil
+    + Zusammenfassung der Geschichte des Frauenrechts in Europa
+
+* Yuchen: Interpretation
+
+**  Text                                                            :B_block:
+    :PROPERTIES:
+    :BEAMER_COL: 0.50
+    :BEAMER_ENV: block
+    :END:
+
+Hallo, mein Schatz, Ich liebe dich
+
+Du bist die Einzige für mich
+
+Die ander'n find' ich alle *doof*
+
+
+** Interpretation                                                   :B_block:
+    :PROPERTIES:
+    :BEAMER_COL: 0.50
+    :BEAMER_ENV: block
+    :END:
+
+- *doof*:  dumm, beschränkt
+
+- Herkunft:
+
+  niederdeutsches Wort für "taub", völlig gehörlos.
+
+  Gehörlose Menschen wurden früher als geistig behinderter Menschen
+  angesehen.
+
+* Yuchen: Interpretation
+
+**  Text                                                            :B_block:
+    :PROPERTIES:
+    :BEAMER_COL: 0.50
+    :BEAMER_ENV: block
+    :END:
+
+Deswegen *mach'* ich dir *den Hof*
+
+Du bist so anders, ganz speziell
+
+Ich merke so was immer schnell
+
+** Interpretation                                                   :B_block:
+    :PROPERTIES:
+    :BEAMER_COL: 0.50
+    :BEAMER_ENV: block
+    :END:
+
+- der *Hof*: Zuhause, Gebäude zum Wohnen.
+
+- *jemandem den Hof machen*: um die Liebe einer Person (häufig einer
+  Frau) werben.
+
+- Beispiel:
+
+  Aufgrund ihrer Schönheit machen ihr viele junge Männer den Hof.
+
+
+* Yuchen: Interpretation
+
+**  Text                                                            :B_block:
+    :PROPERTIES:
+    :BEAMER_COL: 0.50
+    :BEAMER_ENV: block
+    :END:
+
+Jetzt zieh' dich aus und *leg'* dich *hin*
+
+Weil ich so verliebt in dich bin
+
+** Interpretation                                                   :B_block:
+    :PROPERTIES:
+    :BEAMER_COL: 0.50
+    :BEAMER_ENV: block
+    :END:
+
+- *hinlegen*: /reflexiv/:
+
+  schlafen oder sich ausruhen gehen.
+
+* Yuchen: Interpretation
+
+** Zweiter Teil: Warnung                                            :B_block:
+    :PROPERTIES:
+    :BEAMER_COL: 1
+    :BEAMER_ENV: block
+    :END:
+
+Gleich wird es dunkel, bald ist es Nacht
+
+Da ist ein Wort der Warnung angebracht:
+
+Männer sind Schweine
+
+Traue ihnen nicht, mein Kind
+
+Sie wollen alle das Eine
+
+Weil Männer nun mal so sind
+
+* Yuchen: Geschichte der Frauenbewegung
+
+** Antike -- 18. Jahrhundert
+
+   Stichwörter: Patriarchat, Androkratie: „Herrschaft des Mannes“
+
+   Hexenverfolgung, Inquisition
+
+** Kein Recht auf
+
+   - politische Mitbestimmung
+   - Bildung
+   - Erwerbsarbeit
+   - Besitz
+
+** Feministinnen
+
+   Die erste Feministinnen wurden häufig verfolgt und hingerichtet.
+
+* Yuchen: Geschichte der Frauenbewegung                               :B_ignoreheading:
+  :PROPERTIES:
+  :BEAMER_env: ignoreheading
+  :END:
+
+
+** Olympe de Gouges
+
+#+attr_latex: :width 0.3\textwidth
+[[./pic/yc/Olympe_de_Gouges.png]]
+
+   Verfasserin der
+   #+begin_center
+   /Erklärung der Rechte der Frau und Bürgerin/
+   #+end_center
+   von 1791.  Hingerichtet in Paris 1793 vom Alter 45.
+
+* Yuchen: Geschichte der Frauenbewegung
+
+** 20. Jahrhundert -- Zwei Weltkriege und Pazifismus
+
+#+attr_latex: :width 0.5\textwidth
+[[./pic/yc/stamps.jpg]]
+
+Helene Weber auf Kriege:
+#+begin_quote
+„Der reine Männerstaat ist das Verderben der Völker.“
+#+end_quote
+
+* Yuchen: Geschichte der Frauenbewegung
+
+** 21. Jahrhundert
+
+- Geschlechtergerechte Sprache
+
+  - ,,Lehrer:innen``, ,,Journalist:innen``
+
+  - Abschaffung binärer Sprache für diversgeschlechtliche Menschen
+
+* Gliederung
+
+** Litong
+    + Interpretation: Litong
+    + Information über Punkrock-Band ``die Ärzte''
+    + Eigene Meinung
+
+* Litong: Punkrock-Band -- ``die Ärzte''
+** Mitglieder                                                       :B_block:
+    :PROPERTIES:
+    :BEAMER_COL: 0.50
+    :BEAMER_ENV: block
+    :END:
+
+
+Farin Urlaub, Bela B und Sahnie
+
+*** Chronologie
+- 1982: Gründung
+- 1984: Album ``Debil''
+- 1985: ``Im Schatten der Ärzte''
+- 1988: Auflösung
+- 1993: Neugründung
+- 1998: Männer sind Schweine
+
+** Foto                                                             :B_block:
+    :PROPERTIES:
+    :BEAMER_COL: 0.50
+    :BEAMER_ENV: block
+    :END:
+
+#+attr_latex: :width 1\textwidth
+[[./pic/lt/Dieaerzte_presse2012_02_NelaKoenig_15x20.jpg]]
+
+  
+* Litong: Interpretation
+
+**  Text                                                            :B_block:
+    :PROPERTIES:
+    :BEAMER_COL: 0.50
+    :BEAMER_ENV: block
+    :END:
+
+Glaube ihnen nicht ein Wort
+
+Sie schwör'n dir *ewige Treue*
+
+Und dann am nächsten Morgen sind sie fort
+
+Yeah, yeah, yeah
+
+** Interpretation                                                   :B_block:
+    :PROPERTIES:
+    :BEAMER_COL: 0.50
+    :BEAMER_ENV: block
+    :END:
+
+- *ewige Treue*
+
+* Litong: Interpretation
+
+**  Text                                                            :B_block:
+    :PROPERTIES:
+    :BEAMER_COL: 0.50
+    :BEAMER_ENV: block
+    :END:
+
+Er lügt, dass *sich die Balken biegen*
+
+Nur, um dich ins Bett zu kriegen
+
+...
+
+** Interpretation                                                   :B_block:
+    :PROPERTIES:
+    :BEAMER_COL: 0.50
+    :BEAMER_ENV: block
+    :END:
+
+
+- *die Balken biegen*:
+
+  *Balken*:
+
+
+#+attr_latex: :width 1\textwidth
+[[./pic/lt/Inside_building_housing_bones.jpg]]
+
+* Litong: Interpretation
+**  Text                                                            :B_block:
+    :PROPERTIES:
+    :BEAMER_COL: 0.50
+    :BEAMER_ENV: block
+    :END:
+
+Für ihn ist Liebe gleich *Samenverlust*
+
+Mädchen, sei dir dessen stets bewusst
+
+Männer sind Schweine
+
+...
+
+und dann am nächsten Morgen sind sie fort
+
+Wir kennen uns ja nicht mal
+
+** Interpretation                                                   :B_block:
+    :PROPERTIES:
+    :BEAMER_COL: 0.50
+    :BEAMER_ENV: block
+    :END:
+
+- Wirbelsäule:
+  #+attr_latex: :width 0.2\textwidth
+  [[./pic/lt/Gray_111_-_Vertebral_column-coloured.png]]
+- *Samenverlust*:
+
+
+* Gliederung
+** Ky Phong
+    - Interpretation: Ky Phong
+    - Historische Hintergründe und Einordnung
+
+* Ky Phong: Interpretation
+
+**  Text                                                            :B_block:
+   :PROPERTIES:
+   :BEAMER_COL: 0.50
+   :BEAMER_ENV: block
+   :END:
+
+Und falls du doch den Fehler machst 
+
+Und dir 'nen Ehemann *anlachst*
+ 
+*Mutiert* dein *Rosenkavalier* 
+
+Bald nach der Hochzeit auch zum Tier 
+
+** Interpretation                                                   :B_block:
+   :PROPERTIES:
+   :BEAMER_COL: 0.50
+   :BEAMER_ENV: block
+   :END:
+
+   - *anlachen*: ironische Lächeln
+
+   - *mutieren*: sich plötzlich verändern
+
+   - *Rosenkavalier*: romantischer Ritter, der die Mädchen von ihrem
+     Ehemann erwarten
+
+* Ky Phong: Interpretation
+
+**  Text                                                            :B_block:
+   :PROPERTIES:
+   :BEAMER_COL: 0.50
+   :BEAMER_ENV: block
+   :END:
+
+Da zeigt er dann sein wahres *Ich*
+
+Ganz unrasiert und widerlich
+
+Trinkt Bier, sieht fern und wird schnell fett
+
+Und *rülpst* und *furzt* im Ehebett
+
+** Interpretation                                                   :B_block:
+   :PROPERTIES:
+   :BEAMER_COL: 0.50
+   :BEAMER_ENV: block
+   :END:
+
+   - *Ich*: bedeutet hier in den Lied, das Ego
+   - *Rüplsen*: ist das geräuschvolle Aufstoßen von Luft aus dem oberen
+     Verdauungstrakt
+   - *Furzen*: ist das geräuschvolle Aufstoßen von Luft aus dem Hindern
+
+* Ky Phong: Historische Hintergründe -- 1990er Jahren
+
+**  In der Welt                                                     :B_block:
+   :PROPERTIES:
+   :BEAMER_COL: 0.50
+   :BEAMER_ENV: block
+   :END:
+- Die Stabilisierung der weltweiten politischen Lage 
+
+- Die Entwicklung der Technologie 
+
+     #+attr_latex: :width 0.5\textwidth
+     [[./pic/kp/ISS.jpg]]
+     #+attr_latex: :width 0.5\textwidth
+     [[./pic/kp/Google.png]]
+
+** In Deutschland                                                   :B_block:
+   :PROPERTIES:
+   :BEAMER_COL: 0.50
+   :BEAMER_ENV: block
+   :END:
+
+- Wirtschaftliche und soziale Entwicklung 
+- Das Lied als eine Ergänzung der Kunstkultur von Deutschland
+
+* Frauenrecht: Vietnam
+
+** Vietnam
+   :PROPERTIES:
+   :BEAMER_COL: 0.50
+   :BEAMER_ENV: block
+   :END:
+
+   - In Feudalzeit: keine Frauenrecht
+   - Während 2 Indochina-Kriege:
+     
+     Nguyen Thi Binh, Nguyen Thi Dinh
+   - Im Gegenwart: In der unbebauten Region, kein Job, kein Schule
+
+** Fotos
+   :PROPERTIES:
+   :BEAMER_COL: 0.50
+   :BEAMER_ENV: block
+   :END:
+
+     #+attr_latex: :width 0.68\textwidth
+     [[./pic/kp/Familie in Vietnam in Feudalzeit.jpg]]
+     #+attr_latex: :width 0.68\textwidth
+     [[./pic/kp/Mädchen.jpg]]
+     #+attr_latex: :width 0.68\textwidth
+     [[./pic/kp/moderne vietnamesische Familie.jpg]]
+
+* Frauenrecht: China
+** China
+   - Im Kaiserreich China: Frauen als Eigentum ihrer Ehemann
+   - Volksrepublik: Gleichberechtigkeit steht im Grundgesetz
+   - Im Praxis: Noch Vorurteilung und Diskriminierung im
+     Ingenieurwesen, Wissenschaft
+
+* Quelle
+1. Plakat der Sozialdemokratischen Partei Deutschlands (SPD) zu den
+   Wahlen zur Weimarer Nationalversammlung 1919, 94,5 x 71,5 cm.
+2. 50 Jahre Frauenwahlrecht in Deutschland (Briefmarkenblock 1969):
+   Michel-Katalog-Nr: Ländercode-MiNr: Block 5.

@@ -1,0 +1,133 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:t todo:t |:t
+#+title: Gruppenarbeit
+#+author: Phong, Litong, Yuchen
+#+email: 
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 29.0.50 (Org mode 9.5.2)
+#+cite_export:
+#+latex_class: extarticle
+#+latex_class_options: [17pt]
+#+latex_header:
+#+latex_header_extra:
+#+description:
+#+keywords:
+#+subtitle: Männer sind Schweine - Die Ärzte (1998)
+#+latex_compiler: xelatex
+#+date: \today
+* Material
+** Hintergründe
+*** Das Lied
+/Männer sind Schweine/ ist ein Lied der deutschen Punkrock-Band Die
+Ärzte, das unter dem Titel /Ein Schwein namens Männer/ als erste
+Singleauskopplung ihres achten Studioalbums 13 am 3. April 1998
+veröffentlicht wurde. Der Song erreichte im gesamten deutschsprachigen
+Raum Platz eins der Charts und ist mit über einer Million verkauften
+Einheiten das kommerziell erfolgreichste Lied der Gruppe sowie eine
+der meistverkauften Singles in Deutschland.
+
+*** Inhalt
+In /Männer sind Schweine/ singt Farin Urlaub auf ironische und
+überspitzte Weise, dass alle Männer nur auf Sex aus seien und keine
+wahre Liebe kennen würden. Die erste Strophe ist aus der Sicht eines
+Mannes gesungen, der einer Frau zahlreiche Komplimente macht, mit dem
+einzigen Ziel, sie ins Bett zu kriegen. In der zweiten Strophe werden
+Frauen gewarnt, nicht auf falsche Versprechungen der Männer
+hereinzufallen. Die dritte Strophe handelt schließlich von der Zeit
+nach der Hochzeit, in der sich der Mann komplett gehen lässt.
+*** Musikvideo
+Im Video sind die drei Bandmitglieder Farin Urlaub, Bela B und Rodrigo
+González zu sehen, die den Song in einer dunklen Fabrikhalle
+spielen. Am Ende der ersten Strophe werden sie von der
+Videospiel-Heldin Lara Croft mit einer Pistole bedroht, woraufhin sie
+die Flucht ergreifen, während diese wild um sich schießt. Im Versteck
+bewaffnen sie sich selbst mit Schusswaffen und nehmen den Kampf
+auf. Als die Patronen nach der Schießerei aufgebraucht sind, kommt es
+zu einem Faustkampf zwischen Bela B und Lara Croft, den diese vorerst
+gewinnt, doch sich dann von ihm hereinlegen lässt und einen Kopfstoß
+bekommt. Gegen Ende kommt es auch zu einer Schlägerei zwischen Farin
+Urlaub und Lara Croft, an deren Ende sie von den drei Bandmitgliedern
+in die Enge getrieben wird. Daraufhin schießt sie in Richtung Decke,
+wodurch ein Gerüst herunterfällt und die drei Männer unter sich
+begräbt.
+*** Interpretation
+Eigentlich auch unter dem Namen “Ein Schwein Namens Männer” –
+Anspielung auf den Film “Ein Schweinchen Namens Babe” – bekannt,
+erreichte der Song hohe Popularität und war in allen deutschsprachigen
+Ländern auf Platz 1 der Verkaufscharts.
+*** Musik-Band: Die Ärzte
+Sehe Wikipedia.
+** Liedtext
+
+* Aufgaben
+** Überblick
+*** Anforderungen
++ Kameraeinsatz
++ pro Person 5 Minuten präsentieren
++ freie Rede, nicht ablesen
++ Medieneinsatz, anschaulich darstellen
++ Überblick über Gliederung der Präsentation – genaue Information
+  darüber, wer aus der Gruppe welchen Teil präsentieren wird
++ Gliederung und Thesenpapier vorab an Frau Zozmann ( 1 Din A4 Seite)
++ Informationen zum Interpret/zur Interpretin
++ Erscheinungsjahr(1998)/historische Einordung
++ Thema?
++ Aussage des Textes, Interpretation, Absicht/Botschaft des/r
+  Interpreten/in, Hintergrundinformationen (politisch, historisch,
+  gesellschaftlich…)
++ Sprachliche Besonderheiten mit Erklärung: z.B. viele sprachliche
+  Bilder, Umgangssprache,…
++ Eigene Meinung zur Aussage/Musikstil/Text mit Begründung – innerhalb
+  der Gruppe können natürlich unterschiedliche Meinungen existieren
++ Aktueller Bezug vorhanden oder herstellbar??
++ Vergleich mit Musik aus Herkunftsland -> vergleichbar, nicht
+  vorstellbar, ganz anders…
++ Fragen von den Zuhörenden und Zozmann
+** Arbeitsteilung
+*** Phong
+/wird in gruppenchat diskutiert/
+*** Litong
+/wird in gruppenchat diskutiert/
+*** Yuchen
+/wird in gruppenchat diskutiert/
++ Erstellung von Präsentation-Datei.
+
+
+
+Beurteilt werden:
+
+    Persönliche Kompetenz (freies Sprechen, Sprechgeschwindigkeit,
+    Ausprache, Wortwahl, Gestaltung des Vortrages, Einbeziehung der
+    Zuhörenden...)
+
+    Sachkompetenz
+
+    Medienkompetenz  
+
+Beurteilung: · Persönliche Kompetenz (freies Sprechen,
+Sprechgeschwindigkeit, Ausprache, Wortwahl, Gestaltung des Vortrages,
+Einbeziehung der Zuhörenden...)  · Sachkompetenz (wird der Inhalt,
+über den gesprochen wird, vom Sprecher/von der Sprecherin
+verstanden??)  Wissen die Vortragenden über Hintergründe Bescheid?  ·
+Medienkompetenz (Aufbau der Präsentation/nachvollziehbare Gliederung,
+Verständlichkeit der verwendeten Medien, passen der Vortrag und die
+Medien zusammen??)
+
+
+Feed back wird von der Gruppe übernommen!
+
+Konstruktive Kritik üben!
+·        Mir hat gefallen, dass
+·        Ich fand sehr interessant, dass
+·        …
+·        Der Vortrag war sehr gut zu verstehen, …war gut gegliedert, sehr anschaulich….
+·        …
+·        Die Aussprache könnte noch deutlicher sein / … langsamer/….
+·        Die verwendeten Medien könnten noch besser an den Inhalt der Präsentation angepasst werden…
+
+Music-Video als Youtube link in big blue button teilen freigeben
